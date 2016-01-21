@@ -1,0 +1,28 @@
+name: parker
+favicon: null
+layout_spectrum: 0.8179460782557726
+typography_spectrum: 0.28785173455253243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9612201633863151
+  lightness: 0.3100178267341107
+  saturation: 0.13223196705803275
+  rhythmicContrast: 0.09513474209234118
+purpose: []
